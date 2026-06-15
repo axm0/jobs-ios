@@ -14,8 +14,7 @@ scrape + SQLite ──push──► public.jobs (RLS) ──view/anon──► S
                            public_scrape_health             (iOS 17+)
 ```
 
-The backend scraper + sync pipeline live in a separate private
-repository.
+The backend scraper + sync pipeline live in the separate `jobwatcher` repository.
 
 ## Stack
 
